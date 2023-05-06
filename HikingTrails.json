@@ -1,5 +1,5 @@
 {
-  "HikingTrails":
+  "LoudounEvent":
   [
     {"EventDate":"5/22/2023","Filler1":" ","EventID":1,"EventImage":"http://www.protogic.com/images/White_Oak.jpg","Filler2":" ","EventName":"Beginner Swing OR Latin group dance class","EventTime":"7:00 PM","EventWebsite":"https://www.dancekingstudios.com/group-classes", "EventDescription": "No experience OR partner necessary for this super fun way to kick off the work week learning the absolute basics for the most social partner dance styles -- from Swing to Salsa to Bachata", "EventAddress" : "26 W Market Street Leesburg VA 20176", "EventAge" : "25 to 45"},
     {"EventDate":"5/22/2023","Filler1":" ","EventID":2,"EventImage":"http://www.protogic.com/images/White_Oak.jpg","Filler2":" ","EventName":"Kids Eat free aat Monk's BBQ","EventTime":"5:00 PM","EventWebsite":"https://www.facebook.com/events/718099242964000/718099312963993/?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22page%22%7D%5D%7D", "EventDescription": "We love the kiddos, and the kiddos love the BBQ, so KIDS EAT free every Monday!(Applicable to children under 12 yrs old, w/ purchase of adult meal. Limit 2 free children’s meals per adult meal purchase.)", "EventAddress" : "251 North 21st Street Purceville VA 20132", "EventAge" : "5 to 15"},
